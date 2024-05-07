@@ -1,0 +1,41 @@
+programming quotes
+
+1. "Debugging is like trying to find a needle in a haystack, while blindfolded and riding a horse." - Unknown
+
+2. "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra
+
+3. "There are two ways to write error-free programs; only the third one works." - Alan J. Perlis
+
+4. "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
+
+5. "I'm not a great programmer; I'm just a good programmer with great habits." - Kent Beck
+
+6. "In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is." - Jeff Atwood
+
+7. "The best thing about a boolean is even if you are wrong, you are only off by a bit." - Unknown
+
+8. "There are only two hard things in computer science: cache invalidation and naming things." - Phil Karlton
+
+9. "Why do programmers prefer dark mode? Because light attracts bugs." - Unknown
+
+10. "If at first, you don’t succeed; call it version 1.0." - Unknown
+
+11. "It's not a bug - it's an undocumented feature." - Unknown
+
+12. "Programming is like sex. One mistake and you have to support it for the rest of your life." - Michael Sinz
+
+13. "A computer once beat me at chess, but it was no match for me at kickboxing." - Emo Philips
+
+14. "When someone says: 'I want a programming language in which I need only say what I want done', give him a lollipop." - Alan J. Perlis
+
+15. "Programming is easy like riding a bike. Except the bike is on fire, you're on fire, everything is on fire, and you're in hell." - Unknown
+
+16. "The problem with troubleshooting is that trouble shoots back." - Unknown
+
+17. "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
+
+18. "First, solve the problem. Then, write the code." - John Johnson
+
+19. "To err is human, but to really foul things up you need a computer." - Paul Ehrlich
+
+20. "The best performance improvement is the transition from the nonworking state to the working state." - John Ousterhout
