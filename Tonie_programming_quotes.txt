@@ -1,0 +1,43 @@
+
+1.	One of the best programming skills you can have is knowing when to walk away for a while.“ – Oscar Godson
+
+2.	No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.“ – Andy Hunt
+
+3.	Bad programmers worry about the code. Good programmers worry about data structures and their relationships.“ – Linus Torvalds
+
+4.	It´s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.“ – Steve McConnell
+
+5.	Any fool can write code that a computer can understand. Good programmers write code that humans can understand.“ – Martin Fowler
+
+6.	Everyday life is like programming, I guess. If you love something, you can put beauty into it.“ – Donald Knuth
+
+7.	Everybody in this country should learn to program a computer because it teaches you how to think.“ – Steve Jobs
+
+
+8.	A good programmer is someone who always looks both ways before crossing a one-way street.“ – Doug Linder
+
+9.	You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.“ – John Romero
+
+10.	Every programmer is an author.“ – Sercan Leylek
+
+11.	In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.“ – Jon Bentley
+
+12.	There are 10 types of people in this world, those who understand binary and those who don’t.“ – Anonymous
+
+13.	One of my most productive days was throwing away 1000 lines of code.“ – Ken Thompson
+
+14.	Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live“ – John Woods
+
+15.	„A code is like love, it has created with clear intentions at the beginning, but it can get complicated.“ – Gerry Geek
+
+16.	Code never lies, comments sometimes do.“ – Ron Jeffries
+
+17.	„Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.“ – (Eagleson’s Law)
+
+18.	„Computers are useless. They can only give you answers.“ – Pablo Picasso
+
+19.	„Computers are like bikinis. They save people a lot of guess work.“ – Sam Ewing
+
+20.	That’s what’s cool about working with computers. They don’t argue, they remember everything, and they don’t drink all your beer.“ – Paul Leary
+
+
