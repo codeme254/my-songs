@@ -1,0 +1,39 @@
+1. Programming can be fun, so can cryptography; however, they should not be combined. - Kreitzberg and Shneiderman
+
+2. Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter. - Eric S. Raymond
+
+3. Simplicity is prerequisite for reliability. - Edsger W. Dijkstra
+
+4. The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do. - Andrew Singer
+
+5. Programming is like sex. One mistake and you have to support it for the rest of your life. - Michael Sinz
+
+6. I'm not a great programmer; I'm just a good programmer with great habits. - Kent Beck
+
+7. Code never lies, comments sometimes do. - Ron Jeffries
+
+8. The best way to learn is to teach. - Frank Oppenheimer
+
+9. The trouble with programmers is that you can never tell what a programmer is doing until it's too late. - Seymour Cray
+
+10. The computer was born to solve problems that did not exist before. - Bill Gates
+
+11. The best way to predict the future is to invent it. - Alan Kay
+
+12. Measuring programming progress by lines of code is like measuring aircraft building progress by weight. - Bill Gates
+
+13. The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. - Edsger W. Dijkstra
+
+14. Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. - Patrick McKenzie
+
+15.Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+
+16. It's all talk until the code runs. - Ward Cunningham
+
+17. Given enough eyeballs, all bugs are shallow. - Linus Torvalds 
+
+18. A clever person solves a problem. A wise person avoids it. - Albert Einstein
+  
+19. Optimism is an occupational hazard of programming. Feedback is the treatment.  - Kent Beck
+
+20. When in doubt, use brute force. - Ken Thompson (career)
