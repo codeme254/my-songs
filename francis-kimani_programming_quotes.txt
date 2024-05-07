@@ -1,0 +1,43 @@
+1.	  The most important single aspect of software development is to be clear about what you are trying to build." - Bjarne Stroustrup (Creator of C++)
+
+2.	 "Software is a great combination between artistry and engineering." - Bill Gates (Co-founder of Microsoft)
+
+3.	"There are only two hard problems in computer science: cache invalidation and naming things." - Phil Karlton (attributed)
+
+4.	"If debugging is the process of removing bugs, then programming must be the process of putting them in." - Edsger W. Dijkstra (Pioneering computer scientist)
+
+5.	"Talk is cheap. Show me the code." - Linus Torvalds (Creator of Linux)
+
+6.	 "It's harder to read code than to write it." - Joel Spolsky (Software engineer and entrepreneur)
+
+7.	"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Linus Torvalds
+
+
+8.	"Good software, like wine, takes time." - Linus Torvalds
+
+9.	"Clean code always looks like it was written by someone who cares." - Robert C. Martin (Software engineer)
+
+
+10.	 "If something is usable as-is, it doesn't need improvements." - Jakob Nielsen (Usability expert) [This rephrases a quote about usability]
+
+11.	 "Code never lies, comments sometimes do." - Robert C. Martin
+
+12.	 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Brian Kernighan (Computer scientist)
+
+13.	"If, at first, you don't succeed, call it version 1.0" - Khayri R.R. Woulfe (Software developer)
+
+14.	 "Laziness is a programmer's virtue. It leads you to find easier ways to do things." - Larry Wall (Creator of Perl)
+
+15.	"Make it work, make it right, make it fast." - Kent Beck (Software developer)
+
+16.	 "Programming is not a science. Programming is a craft." - Paul Graham (Computer scientist)
+
+17.	"A good programmer is someone who always looks both ways before crossing a one-way street." - Doug McIlroy (Computer scientist)
+
+18.	 "Truth can only be found in one place: the code." - Alan Perlis (Computer scientist)
+
+19.	 "There is always one more bug to fix." - Ellen Ullman (Author and computer scientist)
+
+20.	"Computers are fast; developers keep them slow." – Anonymous 
+
+
