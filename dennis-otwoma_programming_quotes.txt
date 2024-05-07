@@ -1,0 +1,19 @@
+1. Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - John Woods
+
+2. "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
+
+3. "Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime." - Muhammad Waseem
+
+4. "The best thing about a boolean is even if you are wrong, you are only off by a bit." - Anonymous
+
+5. "The most disastrous thing that you can ever learn is your first programming language." - Alan Kay
+
+6. "Walking on water and developing software from a specification are easy if both are frozen." - Edward V. Berard
+
+7. "I'm not a great programmer; I'm just a good programmer with great habits." - Kent Beck
+
+8. "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+
+9. "It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Andrew Hunt and David Thomas
+
+10. "One of my most productive days was throwing away 1000 lines of code." - Ken Thompson
