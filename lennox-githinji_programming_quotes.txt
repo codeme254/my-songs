@@ -1,0 +1,39 @@
+1. Jeff Atwood: "Any application that can be written in JavaScript, will eventually be written in JavaScript."
+
+2. Linus Torvalds: "Given enough eyeballs, all bugs are shallow."
+
+3. Margaret Hamilton: "There was no choice but to be pioneers; no time to be beginners."
+
+4. Michael Sinz: "Programming is like sex. One mistake and you have to support it for the rest of your life."
+
+5. Yukihiro Matsumoto: "Often people, especially computer engineers, focus on the machines. But in fact, we need to focus on humans, on how humans care about doing programming or operating the application of the machines."
+
+6. Alan Perlis: "A language that doesn't affect the way you think about programming is not worth knowing."
+
+7. Steve Jobs: "I think everybody in this country should learn how to program a computer because it teaches you how to think."
+
+8. Mitchell Kapor: "Getting information off the internet is like taking a drink from a fire hydrant."
+
+9. Kent Beck: "Optimism is an occupational hazard of programming; feedback is the treatment."
+
+10. Edsger Dijkstra: "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
+
+11. Paul Graham: "The biggest mistake web apps make is to pretend to be something else—desktop apps, mainly."
+
+12. Ellen Ullman: "We build our computer systems the way we build our cities: over time, without a plan, on top of ruins."
+
+13. Rob Pike: "The key to performance is elegance, not battalions of special cases."
+
+14. John Ousterhout: "The best performance improvement is the transition from the nonworking state to the working state."
+
+15. Gerald Jay Sussman: "The most important property of a program is whether it accomplishes the intention of its user."
+
+16. Andrew Hunt and David Thomas: "You Can’t Write Perfect Software. Did that hurt? It shouldn’t. Accept it as fact."
+
+17. David Parnas: "Software engineering is not about right and wrong but only better and worse."
+
+18. Richard Stallman: "With software there are only two possibilities: either the users control the programme or the programme controls the users."
+
+19. Leslie Lamport: "A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable."
+
+20. Niklaus Wirth: "Software gets slower faster than hardware gets faster."
