@@ -1,0 +1,39 @@
+1. "The best error message is the one that never shows up." - Thomas Fuchs
+
+2. "It's not a bug, it's an undocumented feature." - Anonymous
+
+3. "The only way to do great work is to love what you do." - Steve Jobs
+
+4. "Programming is not about typing, it's about thinking." - Rich Hickey
+
+5. "It's not enough for code to work; it has to be maintainable." - Robert C. Martin
+
+6. "Code is like humor, when you have to explain it, it's bad." - Cory House
+
+7. "The sooner you start writing code, the longer the program will take." - Roy Carlson
+
+8. "The problem with troubleshooting is that trouble shoots back." - Anonymous
+
+9. "The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant. The marriage of the two is a force beyond calculation." - Leo Cherne
+
+10. "The art of programming is the art of organizing complexity." - Edsger Dijkstra
+
+11. "First, solve the problem. Then, write the code." - John Johnson
+
+12. "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra
+
+13. "It's not a bug, it's an undocumented feature." - Anonymous
+
+14. "The best way to predict the future is to invent it." - Alan Kay
+
+15. "Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime." - Muhammad Waseem
+
+16. "Programming isn't about what you know; it's about what you can figure out." - Chris Pine
+
+17. "The most important property of a program is whether it accomplishes the intention of its user." - C.A.R. Hoare
+
+18. "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
+
+19. "If you optimize everything, you will always be unhappy." - Donald Knuth
+
+20. "The best code is no code at all." - Jeff Atwood
