@@ -1,0 +1,39 @@
+1. If the code doesn't bother you don't bother it -Anonymous
+
+2. If you can read this thank a software developer - Joseph M.Abou Nader
+
+3. Pasting code from the internet into production code is like chewing gum found in the street -Mike Johnson
+
+4. Programmers are tools for converting caffeine into code-Anonymous
+
+5.Hacking is like sex. You get in and out , and hope that you didn't leave something that can be traced back to you -Anonymous
+
+6. Real men don't use backups, they post their stuff on a public ftp server and let the rest of the world make copies- Linus Thorvalds
+
+7. Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.-Christopher Thompson
+
+8. Commenting your code is like cleaning your bathroom - you never want to do it, but it really does create a more pleasant experience for you and your guests.-Ryan Campbell
+
+9. Premature optimization is the root of all evil in programming.-C. A. R. Hoare
+
+10. Good programming is good writing.-John Shore
+
+11.There is nothing in the programming field more despicable than an undocumented program.-Ed Yourdon
+
+12. In programming, the hard part isn't solving problems, but deciding what problems to solve.-Paul Graham
+
+13. If debugging is the process of removing bugs. Then programming must be the process of putting them in.-Edsger Dijkstra
+
+14.The older I get, the more I believe that the only way to become a better programmer is by not programming.-Jeff Atwood
+
+15.The best programs are the ones written when the programmer is supposed to be working on something else.-Melinda Varian
+
+16. One of the best programming skills you can have is knowing when to walk away for awhile.-Oscar Godson
+
+17. Don’t fix bugs later; fix them now.-Steve Maguire
+
+18. Your problem is another's solution; Your solution will be his problem.-Anonymous
+
+19. Any simple problem can be made insoluble if enough meetings are held to discuss it.-Anonymous
+
+20. Why do we expect documentation to accurately describe the product when the documentation is finished first?-Anonymous
