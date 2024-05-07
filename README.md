@@ -31,6 +31,7 @@ Once you have collected your quotes, save them in a text file following the nami
 Clone the project repository to your local machine. This allows you to have a local copy of the repository to work with.
 1. Open Command Prompt or your terminal and navigate to where you want the project to live locally on your machine.
 1. Run the command ```git clone <repository-url>``` where ```<repository-url>``` is the URL of our project repository on GitHub.
+1. The repository: https://github.com/codeme254/programming-quotes
 
 ## Step 4: Create your branch
 A branch is new/separate version of the main repository. It allows us to work on features, bug fixes, experimental features e.t.c without affecting the main repository/codebase until these changes are ready to be merged.  
