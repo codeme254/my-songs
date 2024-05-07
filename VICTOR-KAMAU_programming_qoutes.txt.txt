@@ -1,0 +1,40 @@
+PROGRAMMING QUOTES
+1."Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
+
+2."The best thing about a boolean is even if you are wrong, you are only off by a bit." - Anonymous
+
+3."Programming isn't about what you know; it's about what you can figure out." - Chris Pine
+   
+4."Debugging is like being the detective in a crime movie where you are also the murderer." - Filipe Fortes
+
+5."Code is like a joke; if you have to explain it, it's not that good." - Anonymous
+
+6."Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." - John F. Woods
+
+7."Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - Bill Gates
+
+8."In software, the only numbers that matter are 0, 1, and N." - Jeffrey G. McLean
+
+9."The computer was born to solve problems that did not exist before." - Bill Gates
+
+10."It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Andrew Hunt and David Thomas
+
+11."The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+
+12."There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies." - Tony Hoare
+
+13."Programming is not about typing, it's about thinking." - Rich Hickey
+
+14."The joy of coding Python should be in seeing short, concise, readable classes that express a lot of action in a small amount of clear code." - Guido van Rossum
+
+15."Programming is the art of telling another human what one wants the computer to do." - Donald Knuth
+
+16."Good code is its own best documentation." - Steve McConnell
+
+17."The most important property of a program is whether it accomplishes the intention of its user." - C.A.R. Hoare
+
+18."The most disastrous thing that you can ever learn is your first programming language." - Alan Kay
+
+19."Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
+
+20."The best thing about a boolean is even if you are wrong, you are only off by a bit." - Anonymous
