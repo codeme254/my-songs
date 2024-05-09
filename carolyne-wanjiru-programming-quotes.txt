@@ -1,0 +1,41 @@
+1. Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it.  – Ellen Ullman
+
+2. Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. – Linus Torvalds
+
+3. Programmer: A machine that turns coffee into code. – Anonymous
+
+4. When I wrote this code, only God and I understood what I did. Now only God knows.  – Anonymous
+
+5. I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck
+
+6. You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity. – John Romero
+
+7. Programming is learned by writing programs. ― Brian Kernighan
+
+8. Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman
+
+9. Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. ― Rick Cook
+
+10. Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler
+
+11. Experience is the name everyone gives to their mistakes. – Oscar Wilde
+
+12. Programming is the art of telling another human being what one wants the computer to do. ― Donald Ervin Knuth
+
+13. Confusion is part of programming. ― Felienne Hermans
+
+14. No matter which field of work you want to go in, it is of great importance to learn at least one programming language. ― Ram Ray
+
+15. Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it.  – Ellen Ullman
+
+16. Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. – Linus Torvalds
+
+17. Programmer: A machine that turns coffee into code. – Anonymous
+
+When I wrote this code, only God and I understood what I did. Now only God knows.  – Anonymous
+
+18. I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck
+
+19. You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity. – John Romero
+
+20. Programming is learned by writing programs. ― Brian Kernighan
